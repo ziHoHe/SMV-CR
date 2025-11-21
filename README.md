@@ -4,7 +4,7 @@ The official repo of Enhancing Video Large Language Models with Structured Multi
 
 ## Overview
 
-![image-20251121154320077](/Users/ziho_he/Desktop/SMV-CR/code-release/assets/image-20251121154320077.png)
+![image-20251121154320077](./assets/overview.png)
 
 <details> 
     <summary>Abstract</summary>
